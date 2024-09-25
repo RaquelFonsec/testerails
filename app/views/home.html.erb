@@ -1,0 +1,12 @@
+<h1><%= @welcome_message %></h1>
+
+<% if @clients.present? %>
+  <h2>Seus Clientes:</h2>
+  <ul>
+    <% @clients.each do |client| %>
+      <li><%= client.name %></li>
+    <% end %>
+  </ul>
+<% else %>
+  <p>Nenhum cliente encontrado.</p>
+<% end %>

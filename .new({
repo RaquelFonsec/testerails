@@ -1,0 +1,35 @@
+=> 
+[32m#<Devise::Mapping:0x000074337bf0d8e0[0m
+ @class_name[32m=[0m[31m[1m"[0m[31mUser[0m[31m[1m"[0m,
+ @controllers[32m=[0m
+  {[33m:[0m[33msessions[0m=>[31m[1m"[0m[31mdevise/sessions[0m[31m[1m"[0m,
+   [33m:[0m[33mpasswords[0m=>[31m[1m"[0m[31mdevise/passwords[0m[31m[1m"[0m,
+   [33m:[0m[33mregistrations[0m=>[31m[1m"[0m[31mdevise/registrations[0m[31m[1m"[0m},
+ @failure_app[32m=[0m[34m[1m[4mDevise[0m::[34m[1m[4mFailureApp[0m,
+ @format[32m=[0m[36m[1mnil[0m,
+ @klass[32m=[0m[32m#<Devise::Getter:0x000074337bf0d110[0m @name[32m=[0m[31m[1m"[0m[31mUser[0m[31m[1m"[0m[32m>[0m,
+ @modules[32m=[0m
+  [[33m:[0m[33mdatabase_authenticatable[0m,
+   [33m:[0m[33mrememberable[0m,
+   [33m:[0m[33mrecoverable[0m,
+   [33m:[0m[33mregisterable[0m,
+   [33m:[0m[33mvalidatable[0m],
+ @path[32m=[0m[31m[1m"[0m[31musers[0m[31m[1m"[0m,
+ @path_names[32m=[0m
+  {[33m:[0m[33mregistration[0m=>[31m[1m"[0m[31m[1m"[0m,
+   [33m:[0m[33mnew[0m=>[31m[1m"[0m[31mnew[0m[31m[1m"[0m,
+   [33m:[0m[33medit[0m=>[31m[1m"[0m[31medit[0m[31m[1m"[0m,
+   [33m:[0m[33msign_in[0m=>[31m[1m"[0m[31msign_in[0m[31m[1m"[0m,
+   [33m:[0m[33msign_out[0m=>[31m[1m"[0m[31msign_out[0m[31m[1m"[0m,
+   [33m:[0m[33mpassword[0m=>[31m[1m"[0m[31mpassword[0m[31m[1m"[0m,
+   [33m:[0m[33msign_up[0m=>[31m[1m"[0m[31msign_up[0m[31m[1m"[0m,
+   [33m:[0m[33mcancel[0m=>[31m[1m"[0m[31mcancel[0m[31m[1m"[0m},
+ @path_prefix[32m=[0m[36m[1mnil[0m,
+ @router_name[32m=[0m[36m[1mnil[0m,
+ @routes[32m=[0m[[33m:[0m[33msession[0m, [33m:[0m[33mpassword[0m, [33m:[0m[33mregistration[0m],
+ @scoped_path[32m=[0m[31m[1m"[0m[31musers[0m[31m[1m"[0m,
+ @sign_out_via[32m=[0m[33m:[0m[33mdelete[0m,
+ @singular[32m=[0m[33m:[0m[33muser[0m,
+ @strategies[32m=[0m[[33m:[0m[33mrememberable[0m, [33m:[0m[33mdatabase_authenticatable[0m],
+ @used_helpers[32m=[0m[[33m:[0m[33msession[0m, [33m:[0m[33mpassword[0m, [33m:[0m[33mregistration[0m],
+ @used_routes[32m=[0m[[33m:[0m[33msession[0m, [33m:[0m[33mpassword[0m, [33m:[0m[33mregistration[0m][32m>[0m

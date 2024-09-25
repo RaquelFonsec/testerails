@@ -1,0 +1,2 @@
+class ClientIntegration < ApplicationRecord
+end
